@@ -35,6 +35,13 @@
       "static/chunks/413-cd6d9ea5c3d0b317.js",
       "static/chunks/app/page-70da4b1f0bf742d6.js"
     ],
+    "/waitlist/page": [
+      "static/chunks/webpack-45b29e6c494c0834.js",
+      "static/chunks/fd9d1056-b11b2651f33aae7f.js",
+      "static/chunks/117-6e11c61d0197ed52.js",
+      "static/chunks/main-app-2fc01a079ceada12.js",
+      "static/chunks/app/waitlist/page-266516b03b04474c.js"
+    ],
     "/platform/page": [
       "static/chunks/webpack-45b29e6c494c0834.js",
       "static/chunks/fd9d1056-b11b2651f33aae7f.js",
@@ -45,12 +52,12 @@
       "static/chunks/413-cd6d9ea5c3d0b317.js",
       "static/chunks/app/platform/page-3dd8708493c5fc19.js"
     ],
-    "/waitlist/page": [
+    "/about/page": [
       "static/chunks/webpack-45b29e6c494c0834.js",
       "static/chunks/fd9d1056-b11b2651f33aae7f.js",
       "static/chunks/117-6e11c61d0197ed52.js",
       "static/chunks/main-app-2fc01a079ceada12.js",
-      "static/chunks/app/waitlist/page-266516b03b04474c.js"
+      "static/chunks/app/about/page-bc05c0aa1493ddfb.js"
     ],
     "/faq/page": [
       "static/chunks/webpack-45b29e6c494c0834.js",
@@ -66,13 +73,6 @@
       "static/chunks/117-6e11c61d0197ed52.js",
       "static/chunks/main-app-2fc01a079ceada12.js",
       "static/chunks/app/features/page-1ae60aa779263a6d.js"
-    ],
-    "/about/page": [
-      "static/chunks/webpack-45b29e6c494c0834.js",
-      "static/chunks/fd9d1056-b11b2651f33aae7f.js",
-      "static/chunks/117-6e11c61d0197ed52.js",
-      "static/chunks/main-app-2fc01a079ceada12.js",
-      "static/chunks/app/about/page-bc05c0aa1493ddfb.js"
     ],
     "/for-athletes/page": [
       "static/chunks/webpack-45b29e6c494c0834.js",
