@@ -1,0 +1,8 @@
+{
+  "buildCommand": "./vercel-build.sh",
+  "devCommand": "next dev",
+  "installCommand": "yarn install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "rootDirectory": "."
+}

@@ -25,16 +25,6 @@
       "static/chunks/main-app-2fc01a079ceada12.js",
       "static/chunks/app/contact/page-3bd7aa5f2528d75b.js"
     ],
-    "/platform/page": [
-      "static/chunks/webpack-45b29e6c494c0834.js",
-      "static/chunks/fd9d1056-b11b2651f33aae7f.js",
-      "static/chunks/117-6e11c61d0197ed52.js",
-      "static/chunks/main-app-2fc01a079ceada12.js",
-      "static/chunks/972-8c0ee6fabcd1342f.js",
-      "static/chunks/878-da308e20509b5cec.js",
-      "static/chunks/413-cd6d9ea5c3d0b317.js",
-      "static/chunks/app/platform/page-3dd8708493c5fc19.js"
-    ],
     "/page": [
       "static/chunks/webpack-45b29e6c494c0834.js",
       "static/chunks/fd9d1056-b11b2651f33aae7f.js",
@@ -44,6 +34,16 @@
       "static/chunks/878-da308e20509b5cec.js",
       "static/chunks/413-cd6d9ea5c3d0b317.js",
       "static/chunks/app/page-70da4b1f0bf742d6.js"
+    ],
+    "/platform/page": [
+      "static/chunks/webpack-45b29e6c494c0834.js",
+      "static/chunks/fd9d1056-b11b2651f33aae7f.js",
+      "static/chunks/117-6e11c61d0197ed52.js",
+      "static/chunks/main-app-2fc01a079ceada12.js",
+      "static/chunks/972-8c0ee6fabcd1342f.js",
+      "static/chunks/878-da308e20509b5cec.js",
+      "static/chunks/413-cd6d9ea5c3d0b317.js",
+      "static/chunks/app/platform/page-3dd8708493c5fc19.js"
     ],
     "/waitlist/page": [
       "static/chunks/webpack-45b29e6c494c0834.js",
@@ -67,6 +67,13 @@
       "static/chunks/main-app-2fc01a079ceada12.js",
       "static/chunks/app/features/page-1ae60aa779263a6d.js"
     ],
+    "/about/page": [
+      "static/chunks/webpack-45b29e6c494c0834.js",
+      "static/chunks/fd9d1056-b11b2651f33aae7f.js",
+      "static/chunks/117-6e11c61d0197ed52.js",
+      "static/chunks/main-app-2fc01a079ceada12.js",
+      "static/chunks/app/about/page-bc05c0aa1493ddfb.js"
+    ],
     "/for-athletes/page": [
       "static/chunks/webpack-45b29e6c494c0834.js",
       "static/chunks/fd9d1056-b11b2651f33aae7f.js",
@@ -75,13 +82,6 @@
       "static/chunks/972-8c0ee6fabcd1342f.js",
       "static/chunks/878-da308e20509b5cec.js",
       "static/chunks/app/for-athletes/page-00ef44927ad7959b.js"
-    ],
-    "/about/page": [
-      "static/chunks/webpack-45b29e6c494c0834.js",
-      "static/chunks/fd9d1056-b11b2651f33aae7f.js",
-      "static/chunks/117-6e11c61d0197ed52.js",
-      "static/chunks/main-app-2fc01a079ceada12.js",
-      "static/chunks/app/about/page-bc05c0aa1493ddfb.js"
     ],
     "/for-investors/page": [
       "static/chunks/webpack-45b29e6c494c0834.js",
