@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/platform/page": "app/platform/page.js",
+  "/page": "app/page.js",
+  "/waitlist/page": "app/waitlist/page.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/faq/page": "app/faq/page.js",
+  "/api/waitlist/route": "app/api/waitlist/route.js",
+  "/features/page": "app/features/page.js",
+  "/for-athletes/page": "app/for-athletes/page.js",
+  "/about/page": "app/about/page.js",
+  "/for-investors/page": "app/for-investors/page.js",
+  "/how-it-works/page": "app/how-it-works/page.js"
+}
